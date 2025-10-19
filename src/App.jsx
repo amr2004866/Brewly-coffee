@@ -10,7 +10,7 @@ import Home from "./pages/Home";
 function App() {
   return (
     <>
-    <Router>
+    <Router basename="/Brewly-coffee">
 
       
       <Navbar />
