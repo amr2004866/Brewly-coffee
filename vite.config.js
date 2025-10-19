@@ -5,6 +5,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/Brewly-coffee/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
