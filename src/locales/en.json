@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "subtitle":"crafted coffee experience",
+    "home": "Home",
+    "about": "About",
+    "menu": "Menu",
+    "contact": "Contact",
+    "get_in_touch": "Get in touch"
+  },
+  "hero":{
+    "desc":" Enjoy the finest coffee varieties carefully selected to give you the perfect morning boost.",
+    "button":"Order Now"
+  },
+  "about": {
+    "title": "About Brewly Coffee",
+    "text": "At Brewly, we believe coffee is more than just a drink — it’s a daily ritual that inspires and connects people. Our beans are carefully sourced from sustainable farms and roasted to perfection, bringing you a cup that’s rich in flavor and crafted with passion."
+  },
+   "menu": {
+    "title": "Our Coffee Selection",
+    "subtitle": "Discover our handpicked range of premium coffee blends",
+    "products": {
+      "espresso": {
+        "name": "Espresso",
+        "desc": "Strong, bold, and full of flavor."
+      },
+      "latte": {
+        "name": "Latte",
+        "desc": "Smooth, creamy, perfect for mornings."
+      },
+      "cappuccino": {
+        "name": "Cappuccino",
+        "desc": "Frothy, rich, and aromatic."
+      }
+    },
+    "button": "Order Now"
+  },
+   "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We’d love to hear from you! Send us a message and we’ll get back to you soon.",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "Enter your email",
+    "messagePlaceholder": "Write your message here...",
+    "button": "Send Message"
+  },
+  "footer":{
+"copyright": "© 2025 Brewly Coffee. All rights reserved."
+  
+
+  }
+  
+  
+}
