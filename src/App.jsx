@@ -7,6 +7,7 @@ import Contact from "./pages/Contact";
 import Footer from "./Components/Footer";
 import Home from "./pages/Home";
 
+
 function App() {
   return (
     <>
@@ -29,4 +30,3 @@ function App() {
   );
 }
 
-export default App;
